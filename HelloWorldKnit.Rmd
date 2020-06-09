@@ -1,8 +1,0 @@
----
-title: "HelloWord"
-author: "Kit Smith"
-date: "6/9/2020"
-output: html_document
----
-
-## this is a markdown file
